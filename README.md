@@ -1,5 +1,5 @@
-rssdownload
-===========
+rss download
+============
 
 to do:
 make work on linux
